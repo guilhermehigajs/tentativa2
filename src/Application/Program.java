@@ -8,5 +8,7 @@ public class Program {
 
 		System.out.println("Digite seu nome : ");
 		String nome = ler.nextLine();
+		System.out.println("Digite sua idade :");
+		int num = ler.nextInt();
 	}
 }
